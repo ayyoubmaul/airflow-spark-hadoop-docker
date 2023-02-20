@@ -1,0 +1,764 @@
+[2023-02-20 13:05:36,660] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2023-02-20 13:05:36,691] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-20 13:05:36,709] {manager.py:483} INFO - Checking for new files in /home/airflow/dags every 300 seconds
+[2023-02-20 13:05:36,823] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 13:05:37,437] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 13:05:39,622] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/home/airflow/dags/avg_product_price.py      172  0.24s             0           0
+/home/airflow/dags/lowest_rated_movies.py    171  0.56s             0           0
+================================================================================
+[2023-02-20 13:06:10,573] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  3.39s           2023-02-20T13:05:42
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.76s           2023-02-20T13:05:42
+================================================================================
+[2023-02-20 13:06:41,640] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.49s           2023-02-20T13:06:15
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.91s           2023-02-20T13:06:15
+================================================================================
+[2023-02-20 13:07:12,140] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.57s           2023-02-20T13:06:47
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.89s           2023-02-20T13:06:47
+================================================================================
+[2023-02-20 13:07:42,638] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.13s           2023-02-20T13:07:21
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.18s           2023-02-20T13:07:21
+================================================================================
+[2023-02-20 13:08:13,056] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.74s           2023-02-20T13:07:57
+/home/airflow/dags/lowest_rated_movies.py                           1           0  5.38s           2023-02-20T13:07:57
+================================================================================
+[2023-02-20 13:08:43,552] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  7.80s           2023-02-20T13:08:36
+/home/airflow/dags/lowest_rated_movies.py                           1           0  9.12s           2023-02-20T13:08:36
+================================================================================
+[2023-02-20 13:09:14,145] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      232  5.11s             1           0  7.80s           2023-02-20T13:08:36
+/home/airflow/dags/lowest_rated_movies.py    231  6.19s             1           0  9.12s           2023-02-20T13:08:36
+================================================================================
+[2023-02-20 13:09:44,601] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  6.10s           2023-02-20T13:09:15
+/home/airflow/dags/lowest_rated_movies.py                           1           0  7.18s           2023-02-20T13:09:15
+================================================================================
+[2023-02-20 13:10:15,717] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.69s           2023-02-20T13:09:51
+/home/airflow/dags/lowest_rated_movies.py                           1           0  5.58s           2023-02-20T13:09:51
+================================================================================
+[2023-02-20 13:10:37,617] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 13:10:37,832] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 13:10:46,729] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.78s           2023-02-20T13:10:26
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.65s           2023-02-20T13:10:26
+================================================================================
+[2023-02-20 13:11:17,715] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  4.75s           2023-02-20T13:11:04
+/home/airflow/dags/lowest_rated_movies.py                           1           0  7.60s           2023-02-20T13:11:04
+================================================================================
+[2023-02-20 13:11:47,915] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.68s           2023-02-20T13:11:37
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.86s           2023-02-20T13:11:37
+================================================================================
+[2023-02-20 13:12:18,494] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.48s           2023-02-20T13:12:11
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.09s           2023-02-20T13:12:11
+================================================================================
+[2023-02-20 13:12:49,310] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.21s           2023-02-20T13:12:48
+/home/airflow/dags/lowest_rated_movies.py                           1           0  5.61s           2023-02-20T13:12:48
+================================================================================
+[2023-02-20 13:13:20,797] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      302  0.05s             1           0  2.21s           2023-02-20T13:12:48
+/home/airflow/dags/lowest_rated_movies.py    301  1.97s             1           0  5.61s           2023-02-20T13:12:48
+================================================================================
+[2023-02-20 13:13:51,515] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.64s           2023-02-20T13:13:23
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.56s           2023-02-20T13:13:23
+================================================================================
+[2023-02-20 13:14:22,237] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.56s           2023-02-20T13:13:57
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.33s           2023-02-20T13:13:57
+================================================================================
+[2023-02-20 13:14:53,466] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  0.98s           2023-02-20T13:14:28
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.30s           2023-02-20T13:14:28
+================================================================================
+[2023-02-20 13:15:24,069] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.42s           2023-02-20T13:15:00
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.62s           2023-02-20T13:15:00
+================================================================================
+[2023-02-20 13:15:37,689] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 13:15:37,745] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 13:15:54,955] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.36s           2023-02-20T13:15:32
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.62s           2023-02-20T13:15:32
+================================================================================
+[2023-02-20 13:16:26,073] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.36s           2023-02-20T13:16:03
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.75s           2023-02-20T13:16:03
+================================================================================
+[2023-02-20 13:16:56,993] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  0.82s           2023-02-20T13:16:35
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.02s           2023-02-20T13:16:35
+================================================================================
+[2023-02-20 13:17:28,058] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.15s           2023-02-20T13:17:09
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.37s           2023-02-20T13:17:09
+================================================================================
+[2023-02-20 13:17:59,185] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.59s           2023-02-20T13:17:42
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.71s           2023-02-20T13:17:42
+================================================================================
+[2023-02-20 13:18:29,906] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.37s           2023-02-20T13:18:16
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.29s           2023-02-20T13:18:16
+================================================================================
+[2023-02-20 13:19:00,566] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.60s           2023-02-20T13:18:48
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.76s           2023-02-20T13:18:48
+================================================================================
+[2023-02-20 13:19:31,512] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  3.18s           2023-02-20T13:19:22
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.48s           2023-02-20T13:19:22
+================================================================================
+[2023-02-20 13:20:02,364] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.59s           2023-02-20T13:19:55
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.40s           2023-02-20T13:19:55
+================================================================================
+[2023-02-20 13:20:33,256] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.17s           2023-02-20T13:20:29
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.60s           2023-02-20T13:20:29
+================================================================================
+[2023-02-20 13:20:38,308] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 13:20:38,495] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 13:21:04,680] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      442  1.25s             1           0  2.17s           2023-02-20T13:20:29
+/home/airflow/dags/lowest_rated_movies.py    441  3.85s             1           0  3.60s           2023-02-20T13:20:29
+================================================================================
+[2023-02-20 13:21:36,345] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  6.80s           2023-02-20T13:21:09
+/home/airflow/dags/lowest_rated_movies.py                           1           0  9.33s           2023-02-20T13:21:09
+================================================================================
+[2023-02-20 13:22:07,163] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.58s           2023-02-20T13:21:43
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.41s           2023-02-20T13:21:43
+================================================================================
+[2023-02-20 13:22:37,847] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.81s           2023-02-20T13:22:21
+/home/airflow/dags/lowest_rated_movies.py                           1           0  8.06s           2023-02-20T13:22:21
+================================================================================
+[2023-02-20 13:23:08,299] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  5.15s           2023-02-20T13:23:02
+/home/airflow/dags/lowest_rated_movies.py                           1           0  6.28s           2023-02-20T13:23:02
+================================================================================
+[2023-02-20 13:23:38,528] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.86s           2023-02-20T13:23:34
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.03s           2023-02-20T13:23:34
+================================================================================
+[2023-02-20 13:24:08,576] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.59s           2023-02-20T13:24:08
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.43s           2023-02-20T13:24:08
+================================================================================
+[2023-02-20 13:24:38,956] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      665  0.05s             1           0  2.59s           2023-02-20T13:24:08
+/home/airflow/dags/lowest_rated_movies.py    664  0.66s             1           0  3.43s           2023-02-20T13:24:08
+================================================================================
+[2023-02-20 13:25:10,327] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  3.35s           2023-02-20T13:24:42
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.96s           2023-02-20T13:24:42
+================================================================================
+[2023-02-20 13:25:38,456] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 13:25:39,497] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 13:25:40,850] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  3.71s           2023-02-20T13:25:17
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.72s           2023-02-20T13:25:17
+================================================================================
+[2023-02-20 13:26:11,867] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.69s           2023-02-20T13:25:50
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.40s           2023-02-20T13:25:50
+================================================================================
+[2023-02-20 13:26:42,330] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  3.43s           2023-02-20T13:26:26
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.88s           2023-02-20T13:26:26
+================================================================================
+[2023-02-20 13:27:12,888] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  3.08s           2023-02-20T13:27:00
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.23s           2023-02-20T13:27:00
+================================================================================
+[2023-02-20 13:27:43,107] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  3.41s           2023-02-20T13:27:35
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.78s           2023-02-20T13:27:35
+================================================================================
+[2023-02-20 13:28:14,188] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.33s           2023-02-20T13:28:10
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.46s           2023-02-20T13:28:10
+================================================================================
+[2023-02-20 13:28:45,146] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      735  3.13s             1           0  2.33s           2023-02-20T13:28:10
+/home/airflow/dags/lowest_rated_movies.py    734  4.71s             1           0  3.46s           2023-02-20T13:28:10
+================================================================================
+[2023-02-20 13:29:17,197] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      745  0.12s             1           0  3.48s           2023-02-20T13:28:45
+/home/airflow/dags/lowest_rated_movies.py    744  1.53s             1           0  5.06s           2023-02-20T13:28:45
+================================================================================
+[2023-02-20 13:29:47,502] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.15s           2023-02-20T13:29:19
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.56s           2023-02-20T13:29:19
+================================================================================
+[2023-02-20 13:30:18,057] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.85s           2023-02-20T13:29:51
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.31s           2023-02-20T13:29:51
+================================================================================
+[2023-02-20 13:30:39,295] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 13:30:39,443] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 13:30:48,861] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  6.31s           2023-02-20T13:30:29
+/home/airflow/dags/lowest_rated_movies.py                           1           0  7.21s           2023-02-20T13:30:29
+================================================================================
+[2023-02-20 13:31:19,845] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.91s           2023-02-20T13:31:04
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.62s           2023-02-20T13:31:04
+================================================================================
+[2023-02-20 13:31:50,322] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.57s           2023-02-20T13:31:40
+/home/airflow/dags/lowest_rated_movies.py                           1           0  5.44s           2023-02-20T13:31:40
+================================================================================
+[2023-02-20 13:32:20,627] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  5.84s           2023-02-20T13:32:19
+/home/airflow/dags/lowest_rated_movies.py                           1           0  8.36s           2023-02-20T13:32:19
+================================================================================
+[2023-02-20 13:32:43,476] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-02-20 14:07:45,413] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2023-02-20 14:07:45,451] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-20 14:07:45,472] {manager.py:483} INFO - Checking for new files in /home/airflow/dags every 300 seconds
+[2023-02-20 14:07:45,497] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 14:07:45,796] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 14:07:46,026] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/home/airflow/dags/avg_product_price.py      174  0.06s             0           0
+/home/airflow/dags/lowest_rated_movies.py    172  0.07s             0           0
+================================================================================
+[2023-02-20 14:08:16,202] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  0.99s           2023-02-20T14:07:46
+/home/airflow/dags/lowest_rated_movies.py                           1           0  0.98s           2023-02-20T14:07:46
+================================================================================
+[2023-02-20 14:08:46,566] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.45s           2023-02-20T14:08:20
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.16s           2023-02-20T14:08:20
+================================================================================
+[2023-02-20 14:09:17,317] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.65s           2023-02-20T14:08:53
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.17s           2023-02-20T14:08:53
+================================================================================
+[2023-02-20 14:09:47,795] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  3.51s           2023-02-20T14:09:28
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.39s           2023-02-20T14:09:28
+================================================================================
+[2023-02-20 14:10:18,327] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.10s           2023-02-20T14:10:02
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.13s           2023-02-20T14:10:02
+================================================================================
+[2023-02-20 14:10:49,124] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.36s           2023-02-20T14:10:34
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.62s           2023-02-20T14:10:34
+================================================================================
+[2023-02-20 14:11:19,720] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.24s           2023-02-20T14:11:05
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.53s           2023-02-20T14:11:05
+================================================================================
+[2023-02-20 14:11:50,323] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.01s           2023-02-20T14:11:37
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.20s           2023-02-20T14:11:37
+================================================================================
+[2023-02-20 14:12:20,840] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.22s           2023-02-20T14:12:10
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.01s           2023-02-20T14:12:10
+================================================================================
+[2023-02-20 14:12:45,632] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 14:12:45,745] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 14:12:51,250] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.52s           2023-02-20T14:12:43
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.41s           2023-02-20T14:12:43
+================================================================================
+[2023-02-20 14:13:22,071] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.92s           2023-02-20T14:13:17
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.87s           2023-02-20T14:13:17
+================================================================================
+[2023-02-20 14:13:52,804] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  0.96s           2023-02-20T14:13:48
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.42s           2023-02-20T14:13:48
+================================================================================
+[2023-02-20 14:14:23,136] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      293  1.72s             1           0  0.96s           2023-02-20T14:13:48
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.53s           2023-02-20T14:14:23
+================================================================================
+[2023-02-20 14:14:55,138] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      303  0.04s             1           0  1.75s           2023-02-20T14:14:23
+/home/airflow/dags/lowest_rated_movies.py    302  1.31s             1           0  3.53s           2023-02-20T14:14:23
+================================================================================
+[2023-02-20 14:15:25,547] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.88s           2023-02-20T14:14:56
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.14s           2023-02-20T14:14:56
+================================================================================
+[2023-02-20 14:15:56,465] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.21s           2023-02-20T14:15:30
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.23s           2023-02-20T14:15:30
+================================================================================
+[2023-02-20 14:16:26,755] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  0.49s           2023-02-20T14:16:01
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.00s           2023-02-20T14:16:01
+================================================================================
+[2023-02-20 14:16:57,395] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.95s           2023-02-20T14:16:34
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.95s           2023-02-20T14:16:34
+================================================================================
+[2023-02-20 14:17:27,730] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.39s           2023-02-20T14:17:07
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.98s           2023-02-20T14:17:07
+================================================================================
+[2023-02-20 14:17:46,394] {manager.py:690} INFO - Searching for files in /home/airflow/dags
+[2023-02-20 14:17:46,493] {manager.py:693} INFO - There are 2 files in /home/airflow/dags
+[2023-02-20 14:17:58,828] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.26s           2023-02-20T14:17:40
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.20s           2023-02-20T14:17:40
+================================================================================
+[2023-02-20 14:18:29,416] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.57s           2023-02-20T14:18:15
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.66s           2023-02-20T14:18:15
+================================================================================
+[2023-02-20 14:18:59,580] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.87s           2023-02-20T14:18:49
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.51s           2023-02-20T14:18:49
+================================================================================
+[2023-02-20 14:19:30,177] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.22s           2023-02-20T14:19:22
+/home/airflow/dags/lowest_rated_movies.py                           1           0  2.33s           2023-02-20T14:19:22
+================================================================================
+[2023-02-20 14:20:00,869] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  0.75s           2023-02-20T14:19:53
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.24s           2023-02-20T14:19:53
+================================================================================
+[2023-02-20 14:20:31,577] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.63s           2023-02-20T14:20:29
+/home/airflow/dags/lowest_rated_movies.py                           1           0  4.65s           2023-02-20T14:20:29
+================================================================================
+[2023-02-20 14:21:01,730] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py      413  1.07s             1           0  2.63s           2023-02-20T14:20:29
+/home/airflow/dags/lowest_rated_movies.py    412  2.36s             1           0  4.65s           2023-02-20T14:20:29
+================================================================================
+[2023-02-20 14:21:32,142] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  2.41s           2023-02-20T14:21:03
+/home/airflow/dags/lowest_rated_movies.py                           1           0  3.71s           2023-02-20T14:21:02
+================================================================================
+[2023-02-20 14:22:02,559] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/airflow/dags/avg_product_price.py                             1           0  1.18s           2023-02-20T14:21:35
+/home/airflow/dags/lowest_rated_movies.py                           1           0  1.76s           2023-02-20T14:21:35
+================================================================================
+[2023-02-20 14:22:03,067] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
